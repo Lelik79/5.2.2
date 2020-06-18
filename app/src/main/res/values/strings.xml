@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">5.2.2</string>
+    <string name="signin">Войти / Зарегистрироваться</string>
+    <string name="login">login</string>
+    <string name="registration">registration</string>
+    <string name="files">Во внешнем хранилище</string>
+    <string name="password">password</string>
+
+</resources>
